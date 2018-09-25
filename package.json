@@ -1,0 +1,16 @@
+{
+  "name": "newspeaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^9.2.2",
+    "moment": "^2.22.2",
+    "say": "^0.15.0"
+  }
+}
